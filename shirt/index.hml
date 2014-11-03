@@ -1,9 +1,17 @@
+
+
 <!DOCTYPE html>
-<html><script type="text/javascript">window["_gaUserPrefs"] = { ioo : function() { return true; } }</script><head>
+<html>
+<head>
 <style>
 h3 {text-align:center;}
 p {text-align:center;}
 </style>
-<h3>This is the part of the website that you get to by scanning the qr code on one of the shirts of MinereniM.</h3>
+</head>
+<body>
+
+<h3>This is the part of the website you get to if you scan the QR code on one of the shirts of MinereniM.</h3>
 <p>This is a good place to be right now. :P</p>
-</style></html>
+
+</body>
+</html>
